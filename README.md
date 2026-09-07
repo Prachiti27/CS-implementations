@@ -85,6 +85,16 @@ and complexity analysis.
         algorithms such as FCFS and Priority Scheduling.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="./distributed-systems/README.md">Distributed Systems</a>
+      </td>
+      <td>
+        Implementations and simulations of fundamental distributed systems
+        concepts and protocols, focusing on how distributed components
+        communicate, coordinate, and operate across multiple nodes.
+      </td>
+    </tr>
   </tbody>
 </table>
 
