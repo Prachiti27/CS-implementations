@@ -28,7 +28,7 @@ relying on existing distributed systems frameworks.
 
   <tbody>
     <tr>
-      <td><code>two-phase-commit.cpp</code></td>
+      <td><code>two-phase-commit</code></td>
       <td>
         Implementation of the Two-Phase Commit (2PC) distributed transaction
         protocol using a coordinator and multiple participants. The coordinator
@@ -46,7 +46,23 @@ relying on existing distributed systems frameworks.
         Prepare Phase, Commit Phase, Atomicity
       </td>
     </tr>
-
+  <tr>
+    <td><code>lcr-leader-election</code></td>
+    <td>
+      Implementation of the Le Lann–Chang–Roberts (LCR) leader election
+      algorithm for a unidirectional ring of processes. Each process forwards
+      only the highest process ID it has encountered, allowing the process
+      with the highest ID to become the leader.
+    </td>
+    <td>
+      Worst Case: O(n²)
+    </td>
+    <td>O(n)</td>
+    <td>
+      Leader Election, Ring Topology, Process IDs, Message Passing,
+      Distributed Coordination
+    </td>
+  </tr>
   </tbody>
 
 </table>
