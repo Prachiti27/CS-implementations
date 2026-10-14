@@ -206,6 +206,21 @@ structures, heaps, and balanced search trees.
       <td>O(n)</td>
       <td>LIFO, Stack, Top</td>
     </tr>
+  <tr>
+    <td><code>b-tree.cpp</code></td>
+    <td>
+      B-Tree implementation supporting search, insertion, deletion, and
+      sorted traversal using a self-balancing multiway search tree.
+    </td>
+    <td>
+      Search: O(log n)<br>
+      Insert: O(log n)<br>
+      Delete: O(log n)<br>
+      Traversal: O(n)
+    </td>
+    <td>O(n)</td>
+    <td>B-Tree, Multiway Search Tree, Splitting, Merging, Balanced Tree</td>
+  </tr>
   </tbody>
 </table>
 <hr>

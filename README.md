@@ -44,9 +44,7 @@ and complexity analysis.
         <a href="./data-structures/README.md">Data Structures</a>
       </td>
       <td>
-        Implementations of fundamental and advanced data structures including
-        linked lists, stacks, queues, hash tables, BSTs, AVL trees,
-        Red-Black trees, and priority queues.
+        Implementations of fundamental and advanced data structures.
       </td>
     </tr>
     <tr>
@@ -54,8 +52,7 @@ and complexity analysis.
         <a href="./graph/README.md">Graph Algorithms</a>
       </td>
       <td>
-        Graph traversal, shortest path, minimum spanning tree, topological
-        sorting, and pathfinding algorithms.
+        Graph related algorithms, traversal, etc.
       </td>
     </tr>
     <tr>
@@ -63,8 +60,7 @@ and complexity analysis.
         <a href="./searching/README.md">Searching</a>
       </td>
       <td>
-        Fundamental searching techniques including Linear Search and
-        Binary Search.
+        Fundamental searching techniques.
       </td>
     </tr>
     <tr>
@@ -72,8 +68,7 @@ and complexity analysis.
         <a href="./sorting/README.md">Sorting</a>
       </td>
       <td>
-        Classical sorting algorithms including Bubble, Selection, Insertion,
-        Merge, Quick, and Heap Sort.
+        Classical sorting algorithms.
       </td>
     </tr>
     <tr>
@@ -81,8 +76,7 @@ and complexity analysis.
         <a href="./operating-systems/README.md">Operating Systems</a>
       </td>
       <td>
-        Implementations of Operating System concepts and process scheduling
-        algorithms such as FCFS and Priority Scheduling.
+        Implementations of Operating System concepts.
       </td>
     </tr>
     <tr>
@@ -90,9 +84,15 @@ and complexity analysis.
         <a href="./distributed-systems/README.md">Distributed Systems</a>
       </td>
       <td>
-        Implementations and simulations of fundamental distributed systems
-        concepts and protocols, focusing on how distributed components
-        communicate, coordinate, and operate across multiple nodes.
+        Implementations and simulations of fundamental distributed systems.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="./math/README.md">Maths</a>
+      </td>
+      <td>
+        Mathematics related algorithms and concept
       </td>
     </tr>
   </tbody>
