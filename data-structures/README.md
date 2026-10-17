@@ -206,6 +206,21 @@ structures, heaps, and balanced search trees.
       <td>O(n)</td>
       <td>LIFO, Stack, Top</td>
     </tr>
+    <tr>
+      <td><code>binary_tree.cpp</code></td>
+        <td>
+          Binary tree implementation supporting recursive tree construction and Inorder, Preorder, Postorder, and Level Order traversals.
+        </td>
+      <td>
+        Build Tree: O(n)<br>
+        Inorder: O(n)<br>
+        Preorder: O(n)<br>
+        Postorder: O(n)<br>
+        Level Order: O(n)
+      </td>
+      <td>O(n)</td>
+      <td>Binary Tree, Recursion, DFS, BFS, Traversals, Queue</td>
+    </tr>
   </tbody>
 </table>
 <hr>
