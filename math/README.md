@@ -42,6 +42,18 @@ efficient algorithms can be used to solve computational problems.
         Euclidean Algorithm, LCM
       </td>
     </tr>
+    <tr>
+      <td><code>sieve.cpp</code></td>
+      <td>
+        The Sieve of Eratosthenes efficiently finds all prime numbers up to a given limit by repeatedly marking the multiples of each prime number as non-prime.
+      </td>
+      <td>O(n log log n)</td>
+      <td>O(n)</td>
+      <td>
+        Number Theory, Prime Numbers, Sieve of Eratosthenes,
+        Prime Factorization, Mathematical Algorithms
+      </td>
+    </tr>
   </tbody>
 </table>
 
