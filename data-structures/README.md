@@ -221,6 +221,20 @@ structures, heaps, and balanced search trees.
       <td>O(n)</td>
       <td>Binary Tree, Recursion, DFS, BFS, Traversals, Queue</td>
     </tr>
+    <tr>
+      <td><code>binary-heap.cpp</code></td>
+      <td>
+        Binary heap implementation supporting Max Heap and Min Heap with insertion, top element retrieval, deletion, and heapify-up and heapify-down operations.
+      </td>
+    <td>
+      Insert: O(log n)<br>
+      Top: O(1)<br>
+      Pop: O(log n)<br>
+      Display: O(n)
+    </td>
+    <td>O(n)</td>
+    <td>Binary Heap, Max Heap, Min Heap, Heapify, Priority Queue, Complete Binary Tree</td>
+  </tr>
   </tbody>
 </table>
 <hr>
