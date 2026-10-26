@@ -54,6 +54,22 @@ efficient algorithms can be used to solve computational problems.
         Prime Factorization, Mathematical Algorithms
       </td>
     </tr>
+    <tr>
+      <td><code>matrix_multiplication.cpp</code></td>
+      <td>
+      Multiplies two matrices by calculating the dot product
+      of each row of the first matrix and each column of the
+      second matrix. Multiplication is possible only when the
+      number of columns in the first matrix equals the number
+      of rows in the second matrix.
+      </td>
+      <td>O(r1 * c1 * c2)</td>
+      <td>O(r1 * c2) for the result matrix</td>
+      <td>
+      Matrices, 2D Arrays, Nested Loops, Linear Algebra,
+      Row-Column Dot Product
+      </td>
+    </tr>
   </tbody>
 </table>
 
