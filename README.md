@@ -104,22 +104,6 @@ conceptual understanding, practical implementation, and algorithmic efficiency.
       <td><a href="./computer-graphics/README.md">Computer Graphics</a></td>
       <td>Geometric transformations, rasterization, and fundamental graphics algorithms.</td>
     </tr>
-  <tr>
-    <td>
-      <a href="./parallel-computing/README.md">Parallel Computing</a>
-    </td>
-    <td>
-      Parallel execution, workload distribution, thread synchronization, and performance analysis.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="./digital-logic/README.md">Digital Logic Design</a>
-    </td>
-    <td>
-      Boolean algebra, binary arithmetic, logic gates, and combinational and sequential circuit simulations.
-    </td>
-  </tr>
   </tbody>
 </table>
 
