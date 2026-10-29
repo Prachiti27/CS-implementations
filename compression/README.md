@@ -41,5 +41,12 @@ compression efficiency, and the preservation of information.
     <td>O(n)</td>
     <td>Greedy, Min-Heap, Binary Tree, Data Compression, Prefix Codes</td>
     </tr>
+<tr>
+  <td><code>run-length-encoding.cpp</code></td>
+  <td>Implements Run-Length Encoding (RLE) to compress strings by replacing consecutive repeated characters with the character followed by its frequency.</td>
+  <td>O(n)</td>
+  <td>O(n)</td>
+  <td>Run-Length Encoding, String Compression, Strings, Two Pointers, Data Compression</td>
+</tr>
   </tbody>
 </table>

@@ -42,5 +42,12 @@ over stored data to support efficient data management.
     <td>O(n)</td>
     <td>B-Tree, Multiway Search Tree, Splitting, Merging, Balanced Tree</td>
   </tr>
+<tr>
+  <td><code>b-plus-tree.cpp</code></td>
+  <td>Implements a B+ tree with insertion, key searching, internal-node splitting, linked leaf nodes, and sorted traversal of stored keys.</td>
+  <td>Search: O(log n) average; Insert: O(log n) average; Display: O(n)</td>
+  <td>O(n)</td>
+  <td>B+ Tree, Balanced Search Tree, Multiway Tree, Database Indexing, Leaf Node Linking, Tree Splitting</td>
+</tr>
   </tbody>
 </table>

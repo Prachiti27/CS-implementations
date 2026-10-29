@@ -235,6 +235,46 @@ structures, heaps, and balanced search trees.
     <td>O(n)</td>
     <td>Binary Heap, Max Heap, Min Heap, Heapify, Priority Queue, Complete Binary Tree</td>
   </tr>
+  <tr>
+    <td><code>hash-table-chaining.cpp</code></td>
+    <td>
+      Hash table implementation using separate chaining to handle
+      collisions with linked lists. Supports insertion, searching,
+      updating existing keys, deletion, and display operations.
+    </td>
+    <td>
+      Insert: O(1) average<br>
+      Search: O(1) average<br>
+      Delete: O(1) average<br>
+      Display: O(n + m)<br>
+      Worst-case operations: O(n)
+    </td>
+    <td>O(n + m)</td>
+    <td>
+      Hash Table, Hash Function, Collision Resolution,
+      Separate Chaining, Linked List, Key-Value Pairs
+    </td>
+  </tr>  
+  <tr>
+    <td><code>disjoint-set-union.cpp</code></td>
+    <td>
+      Disjoint Set Union implementation supporting initialization
+      of disjoint sets, finding representatives with path compression,
+      merging sets using union by size, checking connectivity, and
+      retrieving component sizes.
+    </td>
+    <td>
+      Find: O(α(n)) amortized<br>
+      Union: O(α(n)) amortized<br>
+      Connected: O(α(n)) amortized<br>
+      Component Size: O(α(n)) amortized
+    </td>
+    <td>O(n)</td>
+    <td>
+      Disjoint Set Union, DSU, Union-Find, Path Compression,
+      Union by Size, Connected Components, Kruskal's Algorithm
+    </td>
+  </tr>
   </tbody>
 </table>
 <hr>
